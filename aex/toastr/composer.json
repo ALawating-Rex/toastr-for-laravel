@@ -1,0 +1,16 @@
+{
+    "name": "aex/toastr-for-laravel",
+    "description": "toastr.js for laravel5",
+    "authors": [
+        {
+            "name": "Aex",
+            "email": "ocwhhappy@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Aex\\Toastr\\": "src/"
+        }
+    }
+}
